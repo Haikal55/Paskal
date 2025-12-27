@@ -1,4 +1,4 @@
-# PASKAL — Perpustakaan Haikal
+# PASKAL - Perpustakaan Haikal
 
 PASKAL (Perpustakaan Haikal) adalah aplikasi perpustakaan digital berbasis Java Desktop (Swing) yang digunakan untuk mengelola dan membaca koleksi buku dalam format PDF secara terstruktur dan terkontrol.
 
