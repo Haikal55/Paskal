@@ -20,7 +20,7 @@ Nama **PASKAL** terinspirasi dari **Blaise Pascal**, tokoh penting dalam sejarah
 - Java SE (Swing)
 - NetBeans GUI Builder
 - PDFBox
-- Launch4j (porting ke EXE)
+- Launch4j
 - HTML rendering menggunakan `JTextPane`
 
 ## Struktur Peran Pengguna
